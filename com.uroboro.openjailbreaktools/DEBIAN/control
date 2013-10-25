@@ -1,5 +1,5 @@
-Package: com.uroboro.openjailbreak.fuzzytools
-Name: Fuzzy Tools
+Package: com.uroboro.openjailbreaktools
+Name: Openjailbreak Tools
 Depends: 
 Version: 0.0.1
 Architecture: iphoneos-arm
