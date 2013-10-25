@@ -1,0 +1,10 @@
+Package: com.uroboro.openjailbreak.fuzzytools
+Name: Fuzzy Tools
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: CLI tools to aid fuzzing
+Maintainer: uroboro<uroboro.845@gmail.com>
+Author: uroboro<uroboro.845@gmail.com>
+Section: Development
+Tag: role::hacker
