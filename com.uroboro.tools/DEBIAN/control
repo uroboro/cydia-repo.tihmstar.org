@@ -3,7 +3,7 @@ Name: Uroboro's tools
 Depends: 
 Version: 0.0.2
 Architecture: iphoneos-arm
-Description: CLI tools to aid jailbreak development (hexdiff, findthediffs)
+Description: CLI tools to aid jailbreak development (hexdiff)
 Maintainer: uroboro<uroboro.845@gmail.com>
 Author: uroboro<uroboro.845@gmail.com>
 Section: Development
