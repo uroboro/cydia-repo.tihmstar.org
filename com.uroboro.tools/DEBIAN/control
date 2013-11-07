@@ -1,7 +1,7 @@
 Package: com.uroboro.tools
 Name: Uroboro's tools
 Depends: 
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Description: CLI tools to aid jailbreak development (hexdiff)
 Maintainer: uroboro<uroboro.845@gmail.com>
